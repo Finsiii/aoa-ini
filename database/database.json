@@ -1,0 +1,32 @@
+{
+  "users": {
+    "6282221116739@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 400
+    },
+    "62895392968503@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 1000
+    },
+    "6289687259633@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 400
+    }
+  },
+  "chats": {},
+  "game": {},
+  "database": {},
+  "settings": {
+    "6288973380122@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false
+    }
+  },
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}
